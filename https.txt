@@ -1,4 +1,4 @@
-es la versión segura de HTTP,
-el protocolo que permite la transferencia de datos entre un navegador web y un servidor.
-[A[A[EUtiliza cifrado para proteger la información transmitida,[3~[3~[3~[3~[3~[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-Utiliza cifrado para proteger la información transmitida.[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[A[A[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[DEs la versión segura de HTTP, 
+HTTPS (Hypertext Transfer Protocol Secure) es la versión
+segura de HTTP, el protocolo que permite la transferencia
+de datos entre un navegador web y un servidor.
+Utiliza cifrado para proteger la información transmitida.
