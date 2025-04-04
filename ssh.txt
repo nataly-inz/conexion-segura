@@ -1,0 +1,3 @@
+es un protocolo de red que permite una comunicación
+segura y cifrada entre dos sistemas, como un cliente y un servidor remoto,
+ideal para acceder y administrar servidores de forma remota y segura.
